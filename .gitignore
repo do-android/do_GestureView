@@ -1,0 +1,10 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_GestureView/do_GestureView.zip
+/doExt_do_GestureView/do_build.xml
+/doExt_do_GestureView/libs/docore.jar
